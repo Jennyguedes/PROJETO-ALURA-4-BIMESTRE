@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JennyBOOKS</title>
+    <link rel="stylesheet" href="reset.CSS">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header class="cabeçalho">
+        <span class="cabeçalho_menu-hamburguer"></span>
+        <img src="img/logo.svg" alt="logo da JennyBOOKS">
+        <href="#"><img src="img/favoritos.svg"></a>
+       "img/compras.svg" alt="carrinhos de compras"></a>
+
+    </header>
+</body>
